@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAnqGWieNN4DM/efLqBvdamkZbMK/RBCiFS0e29rV7oOCkTtNbvPlsHr0Pn8XgUtiuiD3nYlkB2/P3GgmYMe2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev1\\Desktop\\NFSeSP\\poc\\poc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev1\\.nuget\\packages\\system.formats.asn1\\8.0.0-rc.2.23479.6\\system.formats.asn1.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\dev1\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0-rc.2.23479.6\\system.security.cryptography.pkcs.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\dev1\\.nuget\\packages\\system.security.cryptography.xml\\8.0.0-rc.2.23479.6\\system.security.cryptography.xml.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}

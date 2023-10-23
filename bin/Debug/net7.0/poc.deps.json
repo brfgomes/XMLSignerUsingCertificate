@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "poc/1.0.0": {
+        "dependencies": {
+          "System.Security.Cryptography.Xml": "8.0.0-rc.2.23479.6"
+        },
+        "runtime": {
+          "poc.dll": {}
+        }
+      },
+      "System.Formats.Asn1/8.0.0-rc.2.23479.6": {
+        "runtime": {
+          "lib/net7.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        }
+      },
+      "System.Security.Cryptography.Pkcs/8.0.0-rc.2.23479.6": {
+        "dependencies": {
+          "System.Formats.Asn1": "8.0.0-rc.2.23479.6"
+        },
+        "runtime": {
+          "lib/net7.0/System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Security.Cryptography.Pkcs.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        }
+      },
+      "System.Security.Cryptography.Xml/8.0.0-rc.2.23479.6": {
+        "dependencies": {
+          "System.Security.Cryptography.Pkcs": "8.0.0-rc.2.23479.6"
+        },
+        "runtime": {
+          "lib/net7.0/System.Security.Cryptography.Xml.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.47906"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "poc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Formats.Asn1/8.0.0-rc.2.23479.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A1p1/ATQf4KawXEDccim1SUrZBlEg/fEzQ9U8WnmY63xe3PIIxNRDa0sz+D7SOiMJvA/7Z3TzuTdpg4qQqJj2w==",
+      "path": "system.formats.asn1/8.0.0-rc.2.23479.6",
+      "hashPath": "system.formats.asn1.8.0.0-rc.2.23479.6.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Pkcs/8.0.0-rc.2.23479.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2es7eO33NRs8q639HHhwF45WV1L/gPuR2c43gTRFD0uwIM/iFQr7VK13PQoYPPxh/8AczRvEPXGwjwXJ+KQ7yw==",
+      "path": "system.security.cryptography.pkcs/8.0.0-rc.2.23479.6",
+      "hashPath": "system.security.cryptography.pkcs.8.0.0-rc.2.23479.6.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Xml/8.0.0-rc.2.23479.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KMZO15nAqQjDx81k2mA7ewG0UPmsiopTnaAA05tf7bwAP8/7AM5BHfrqVCksd3Lh2aoOgV/bzEn/BMkottgxkw==",
+      "path": "system.security.cryptography.xml/8.0.0-rc.2.23479.6",
+      "hashPath": "system.security.cryptography.xml.8.0.0-rc.2.23479.6.nupkg.sha512"
+    }
+  }
+}
