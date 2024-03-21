@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev1\\Desktop\\NFSeSP\\poc\\poc.csproj": {}
+    "D:\\Dev\\backend\\XMLSignerUsingCertificate\\poc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev1\\Desktop\\NFSeSP\\poc\\poc.csproj": {
+    "D:\\Dev\\backend\\XMLSignerUsingCertificate\\poc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev1\\Desktop\\NFSeSP\\poc\\poc.csproj",
+        "projectUniqueName": "D:\\Dev\\backend\\XMLSignerUsingCertificate\\poc.csproj",
         "projectName": "poc",
-        "projectPath": "C:\\Users\\dev1\\Desktop\\NFSeSP\\poc\\poc.csproj",
+        "projectPath": "D:\\Dev\\backend\\XMLSignerUsingCertificate\\poc.csproj",
         "packagesPath": "C:\\Users\\dev1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev1\\Desktop\\NFSeSP\\poc\\obj\\",
+        "outputPath": "D:\\Dev\\backend\\XMLSignerUsingCertificate\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dev1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\dev1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
