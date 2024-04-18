@@ -1,0 +1,3 @@
+﻿# Ignorar pasta bin gerada pelo build
+bin/
+obj/
